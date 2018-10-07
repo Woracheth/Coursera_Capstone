@@ -51,10 +51,10 @@ stations: PET,S12,SAM
 ​
 There are Chulalongkorn University near SAM station, Srinakharinwirot University near PET station, and Siam University near S12 station.
 ​
-| category             |  F         |
-| -------------------  | ---------- |
-|**College & Education**|**171.092051**|
-| Shops                | 5.647899   |
+| category                | F              |
+| ----------------------- | -------------- |
+| **College & Education** | **171.092051** |
+| Shops                   | 5.647899       |
 ​
 ## cluster 1
 ​
@@ -62,12 +62,12 @@ stations: CEN,CUL,E1,E5,N1,PHA,W1
 ​
 These are commercial areas located at the most prime area. Siam paragon at CEN station, Emquartier at E5 station, Esplanade Ratchada at CUL station, and Central Plaza Ladprao at PHA station are large shopping complexes with leisure centre.
 ​
-| category             |  F         |
-| -------------------- | ---------- |
-|**Arts & Entertainment**|**37.466271**|
-|**Shops**             |**28.120129**|
-| Professional         | 12.419282  |
-| Residence            | 8.249203   |
+| category                 | F             |
+| ------------------------ | ------------- |
+| **Arts & Entertainment** | **37.466271** |
+| **Shops**                | **28.120129** |
+| Professional             | 12.419282     |
+| Residence                | 8.249203      |
 ​
 ## cluster 2
 ​
@@ -75,12 +75,12 @@ stations: E10,E11,E12,E13,E14,E6,E7,E8,E9,HUI,KAM,LAT,N5,N7,RAM,RAT,S10,S11,S7,S
 ​
 These are residential areas with no surprise, as most of them are in outer city areas.
 ​
-| category             |  F         |
-| -------------------- | ---------- |
-| **Residence**        |**91.370287**|
-| Travel               | 11.554251  |
-| Nightlife            | 6.767196   |
-| Arts & Entertainment | 4.138550   |
+| category             | F             |
+| -------------------- | ------------- |
+| **Residence**        | **91.370287** |
+| Travel               | 11.554251     |
+| Nightlife            | 6.767196      |
+| Arts & Entertainment | 4.138550      |
 ​
 ## cluster 3
 ​
@@ -88,13 +88,13 @@ stations: BAN,E2,E3,E4,HUA,KHO,LUM,N2,N3,N4,N8,S1,S2,S3,S5,S6,SIR
 ​
 The stations in this cluster are mostly located around the center of the Bangkok, comprise of office buildings.
 ​
-| category             |  F         |
-| -------------------- | ---------- |
-| **Professional**     |**26.424944**|
-| Residence            | 18.271038  |
-| Shops                | 17.559918  |
-| Travel               | 16.312009  |
-| Nightlife            | 6.215488   |
+| category             |  F            |
+| -------------------- | ------------- |
+| **Professional**     | **26.424944** |
+| Residence            | 18.271038     |
+| Shops                | 17.559918     |
+| Travel               | 16.312009     |
+| Nightlife            | 6.215488      |
 ​
 # Discussion
 ​
